@@ -43,3 +43,4 @@ Connect with me and let's turn ideas into reality. 💬
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/davidcjohn/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2)](https://twitter.com/_daveccp)
 [![Website](https://img.shields.io/badge/Website-Explore-brightgreen)](https://chukwudavid.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366)](https://wa.me/qr/LLI7FZKMMALBC1)
