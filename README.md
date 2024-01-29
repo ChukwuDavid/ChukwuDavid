@@ -41,7 +41,7 @@ Join me on this tech adventure where we fuse cutting-edge technology with a spri
 Connect with me and let's turn ideas into reality. 💬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/davidcjohn/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2)](https://twitter.com/_daveccp)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2)](https://twitter.com/dee_io)
 [![Website](https://img.shields.io/badge/Website-Explore-brightgreen)](https://chukwudavid.com)
 [![CV](https://img.shields.io/badge/CV-Download-brightblue)](https://drive.google.com/file/d/1-OfVf_BJsZ90Paf9O1n6ndcpJ88y_xr9/view?usp=drivesdk)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366)](https://wa.me/qr/LLI7FZKMMALBC1)
