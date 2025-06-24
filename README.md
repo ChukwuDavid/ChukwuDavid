@@ -25,7 +25,7 @@ Right now, I’m deep in the trenches, building projects that challenge me and g
 
 ---
 
-## 🧩 Current Project: `Verbal`  
+## 🧩 Current Project: `Verbally`  
 An ambitious audiobook application that lets users upload PDFs and magically converts them into *realistic, human-sounding audiobooks*. Think: **Spotify for books**, powered by AI.  
 It’s challenging. It’s exciting. It breaks a lot (and I fix it a lot). But hey, that’s how I grow. 💪
 
