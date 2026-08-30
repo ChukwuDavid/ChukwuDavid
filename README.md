@@ -1,72 +1,78 @@
-# Hey there, I’m David 👋
+# Hey there, I'm David 👋
 
-🌍 **Explorer of Code** | 💡 **Student of Software** | 🛠️ **Builder in Progress**  
-Welcome to my corner of GitHub — a digital journal of learning, building, breaking, fixing, and growing.
+**Route-to-Market Manager at AB InBev** | **Founder, Lead Consolidated** | **Builder of things that ship**
 
----
+I sit at the intersection of commercial strategy and software. By day, I run distributor relationships and field operations for one of Africa's largest breweries. By night (and most weekends), I write code, ship products, and chase ideas that refuse to leave me alone.
 
-## 🚧 Under Construction — Just Like Me
-
-I'm not a guru (yet), not a wizard (though I’ve got the curiosity of one), but I *am* someone on a determined, sometimes clumsy, always hopeful journey to becoming a **software engineer**.
-
-I started this journey not from a computer science degree, but from a place of raw curiosity, big dreams, and a willingness to figure things out — one bug at a time.
+This README used to open with "under construction." It still is. So am I. But the projects got real.
 
 ---
 
-## 🌱 What I'm Learning
+## 🧭 What I Actually Do
 
-Right now, I’m deep in the trenches, building projects that challenge me and give me life. My goals are ambitious, but so is my caffeine intake.
+At **International Breweries PLC (AB InBev)**, I manage distributor relationships, field agent operations, and commercial pilots like the Open Market program and the Van Sales Model. I turn messy field data into decisions leadership can act on.
 
-### 📚 In My Backpack:
-- **Frontend & Backend Development** – With frameworks like **Next.js**, **React**, and tools like **Node.js**, **Tailwind CSS**, and **Prisma**
-- **Cloud & DevOps Fundamentals** – Tinkering with **Terraform**, **Docker**, and **Google Cloud**
-- **AI + Voice** – Building an audiobook app powered by **OpenAI’s Voice models**
-- **Git, GitHub & Version Control** – Because even learners need to commit to something 😉
+At **Lead Consolidated**, my holding company, I build across commercial strategy, distribution, AI development, and platform engineering. It's the umbrella under which most of what's below actually happens.
+
+Somewhere in between, I'm also an MBA student, which mostly means my caffeine intake has gone from aspirational to load-bearing.
 
 ---
 
-## 🧩 Current Project: `Verbally`  
-An ambitious audiobook application that lets users upload PDFs and magically converts them into *realistic, human-sounding audiobooks*. Think: **Spotify for books**, powered by AI.  
-It’s challenging. It’s exciting. It breaks a lot (and I fix it a lot). But hey, that’s how I grow. 💪
+## 🛠️ Currently Building
+
+### 🎧 [Verbally](#)
+A text-to-speech platform that turns e-books and PDFs into audiobooks that sound human, plus a lighter web tool for voicing over faceless videos. I benchmarked Chatterbox, F5-TTS, and Dia to find a narration engine that could compete with ElevenLabs without the ElevenLabs price tag. Built on RunPod and Cloudflare R2. Right now I'm validating models against real chapters before I pour more into infrastructure.
+
+### 🗳️ Nigeria Election Results Portal
+A live election monitoring portal ahead of Nigeria's 2027 general elections, inspired by a similar platform built for Zambia. Leaning toward a static JSON and CDN architecture over WebSockets, pulling from INEC's IReV as the primary data source. Because the data existing publicly and the data being usable are two very different problems.
+
+### 🪑 A Furniture Business (yes, really)
+Co-building a furniture venture with a craftsman and a business-minded cousin. Full business strategy, PRD, technical architecture, and a four-week sprint plan already written. Built on Next.js, Supabase, and Paystack. The hardest part isn't the code. It's the product photography.
+
+### 📞 Kuja Vantage
+Leading delivery of a Salesforce CRM replacing a legacy platform for a call-center team, gap analysis and all.
+
+### 📱 Payge
+An earlier audiobook app I built solo with React Native, Firebase, GCP, Terraform, Docker, and Kubernetes. The proof of concept that grew into Verbally.
 
 ---
 
-## 💬 Why This GitHub Exists
+## 🌱 What's In the Toolbox
 
-This place isn’t just for showcasing perfection.  
-It’s for **learning in public**.  
-It’s a logbook of:
-- Things I’ve tried,
-- Mistakes I’ve made,
-- Concepts I’m still wrapping my head around,
-- Projects that felt impossible until they weren’t.
+**Frontend & Backend:** Next.js, React, React Native, Node.js, Tailwind CSS, Prisma
+**Cloud & Infrastructure:** Terraform, Docker, Kubernetes, Google Cloud, RunPod, Cloudflare
+**AI & Voice:** OpenAI voice models, open-source TTS (Chatterbox, F5-TTS, Dia)
+**Data & Ops:** Turning raw field data into structured decisions, one messy spreadsheet at a time
 
-If you're on a similar journey — welcome. Let’s get our hands dirty together. 🧠🛠️
+I'm also watching AI agent autonomy, humanoid robotics, BCIs, and stablecoins closely, less as a hobbyist and more as someone hunting for where the next decade of venture opportunity actually sits.
 
 ---
 
-## 😅 Fun Fact  
-I code better with lo-fi music, warm socks, and the occasional motivational TED Talk whispering, *“You got this.”*
+## ✍️ Beyond the Code
+
+I write long-form on Nigerian governance and society: systemic dysfunction, citizen adaptability as an unpaid subsidy for bad governance, electoral reform. I'm also building a following on X around distribution and commerce commentary through an Africa lens.
+
+Building in public, on this profile and off it, is the point.
 
 ---
 
 ## 🧠 My Philosophy
 
-> “Start where you are. Use what you have. Learn as you go. Break stuff. Fix it. Repeat.”
+> "Start where you are. Use what you have. Learn as you go. Break stuff. Fix it. Repeat."
 
-This is more than a tech career for me — it’s a **calling**. One day, I want to build tools and companies that matter — in education, in access, in opportunity. But today, I’m learning how to build a button that works.
+This was true two years ago and it's still true now. The difference is that today the stuff I break has distributors, call-center agents, and prospective furniture customers on the other end of it.
 
 ---
 
-## 📡 Let’s Connect
+## 📡 Let's Connect
 
-I'm not perfect, but I'm present. And I’d love to connect, collaborate, or just chat about this beautiful messy road called tech. 🚀
+I'm building a lot of things at once, which means I'm always looking for people who want to build, argue, or collaborate.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/davidcjohn/)
-- 🐦 [Twitter](https://twitter.com/chukwu_io)
+- 🐦 [X (Twitter)](https://twitter.com/chukwu_io)
 - 🌐 [Website](https://chukwudavid.com/)
 - 📄 [My CV](https://drive.google.com/drive/folders/1r7wGgA-22C9I7cZnuEviqY9hK6HnPgmR)
 
 ---
 
-Thanks for stopping by. Watch this space. It gets better. ✨
+What are you building right now, and what's the part of it you haven't told anyone yet?
